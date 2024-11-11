@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/pascalbrunner/Documents/Schule/OOP_Grundlagen/Unit 5/KnowledgeBase/KnowledgeBase/obj/Debug/net8.0/scopedcss/projectbundle/KnowledgeBase.bundle.scp.css",
+      "PackagePath": "staticwebassets/KnowledgeBase.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/pascalbrunner/Documents/Schule/OOP_Grundlagen/Unit 5/KnowledgeBase/KnowledgeBase/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/pascalbrunner/Documents/Schule/OOP_Grundlagen/Unit 5/KnowledgeBase/KnowledgeBase/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/pascalbrunner/Documents/Schule/OOP_Grundlagen/Unit 5/KnowledgeBase/KnowledgeBase/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/pascalbrunner/Documents/Schule/OOP_Grundlagen/Unit 5/KnowledgeBase/KnowledgeBase/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.KnowledgeBase.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.KnowledgeBase.props",
+      "PackagePath": "build\\KnowledgeBase.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.KnowledgeBase.props",
+      "PackagePath": "buildMultiTargeting\\KnowledgeBase.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.KnowledgeBase.props",
+      "PackagePath": "buildTransitive\\KnowledgeBase.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
